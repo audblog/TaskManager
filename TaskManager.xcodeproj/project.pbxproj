@@ -14,6 +14,16 @@
 		BD7486B02C1A088F00343C67 /* TaskManagerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7486AF2C1A088F00343C67 /* TaskManagerTests.swift */; };
 		BD7486BA2C1A088F00343C67 /* TaskManagerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7486B92C1A088F00343C67 /* TaskManagerUITests.swift */; };
 		BD7486BC2C1A088F00343C67 /* TaskManagerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7486BB2C1A088F00343C67 /* TaskManagerUITestsLaunchTests.swift */; };
+		BDAC70C52C1B91B300B19CC0 /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDAC70C42C1B91B300B19CC0 /* HomePage.swift */; };
+		BDAC70C72C1B91DD00B19CC0 /* AdviceandTipsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDAC70C62C1B91DD00B19CC0 /* AdviceandTipsView.swift */; };
+		BDAC70C92C1B91F400B19CC0 /* StressManagementView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDAC70C82C1B91F400B19CC0 /* StressManagementView.swift */; };
+		BDAC70CB2C1B920A00B19CC0 /* BreathingExercises.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDAC70CA2C1B920A00B19CC0 /* BreathingExercises.swift */; };
+		BDAC70CD2C1B921E00B19CC0 /* ProductivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDAC70CC2C1B921E00B19CC0 /* ProductivityView.swift */; };
+		BDAC70CF2C1B922C00B19CC0 /* FinanceTracker.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDAC70CE2C1B922C00B19CC0 /* FinanceTracker.swift */; };
+		BDAC70D12C1B924600B19CC0 /* JournalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDAC70D02C1B924600B19CC0 /* JournalView.swift */; };
+		BDAC70D32C1B92E400B19CC0 /* Shrikhand-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BDAC70D22C1B92E400B19CC0 /* Shrikhand-Regular.ttf */; };
+		BDF4EC562C1A33CA00AE8400 /* NewToDoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF4EC552C1A33CA00AE8400 /* NewToDoView.swift */; };
+		BDF4EC582C1A35A400AE8400 /* ToDoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF4EC572C1A35A400AE8400 /* ToDoItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +54,20 @@
 		BD7486B52C1A088F00343C67 /* TaskManagerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TaskManagerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD7486B92C1A088F00343C67 /* TaskManagerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskManagerUITests.swift; sourceTree = "<group>"; };
 		BD7486BB2C1A088F00343C67 /* TaskManagerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskManagerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BDAC70C42C1B91B300B19CC0 /* HomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePage.swift; sourceTree = "<group>"; };
+		BDAC70C62C1B91DD00B19CC0 /* AdviceandTipsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdviceandTipsView.swift; sourceTree = "<group>"; };
+		BDAC70C82C1B91F400B19CC0 /* StressManagementView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StressManagementView.swift; sourceTree = "<group>"; };
+		BDAC70CA2C1B920A00B19CC0 /* BreathingExercises.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreathingExercises.swift; sourceTree = "<group>"; };
+		BDAC70CC2C1B921E00B19CC0 /* ProductivityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductivityView.swift; sourceTree = "<group>"; };
+		BDAC70CE2C1B922C00B19CC0 /* FinanceTracker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinanceTracker.swift; sourceTree = "<group>"; };
+		BDAC70D02C1B924600B19CC0 /* JournalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JournalView.swift; sourceTree = "<group>"; };
+		BDAC70D22C1B92E400B19CC0 /* Shrikhand-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Shrikhand-Regular.ttf"; path = "../../../Downloads/Shrikhand-Regular.ttf"; sourceTree = "<group>"; };
+		BDAC70D42C1B930700B19CC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		BDAC70D52C1B945C00B19CC0 /* Shrikhand-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Shrikhand-Regular.ttf"; sourceTree = "<group>"; };
+		BDAC70D62C1B947900B19CC0 /* Shrikhand-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Shrikhand-Regular.ttf"; sourceTree = "<group>"; };
+		BDAC70D72C1B94C100B19CC0 /* Shrikhand-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Shrikhand-Regular.ttf"; path = "../../../../Downloads/Shrikhand-Regular.ttf"; sourceTree = "<group>"; };
+		BDF4EC552C1A33CA00AE8400 /* NewToDoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewToDoView.swift; sourceTree = "<group>"; };
+		BDF4EC572C1A35A400AE8400 /* ToDoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +98,7 @@
 		BD7486922C1A088C00343C67 = {
 			isa = PBXGroup;
 			children = (
+				BDAC70D52C1B945C00B19CC0 /* Shrikhand-Regular.ttf */,
 				BD74869D2C1A088C00343C67 /* TaskManager */,
 				BD7486AE2C1A088F00343C67 /* TaskManagerTests */,
 				BD7486B82C1A088F00343C67 /* TaskManagerUITests */,
@@ -94,9 +119,20 @@
 		BD74869D2C1A088C00343C67 /* TaskManager */ = {
 			isa = PBXGroup;
 			children = (
+				BDAC70D42C1B930700B19CC0 /* Info.plist */,
 				BD74869E2C1A088C00343C67 /* TaskManagerApp.swift */,
+				BDAC70C42C1B91B300B19CC0 /* HomePage.swift */,
+				BDAC70C62C1B91DD00B19CC0 /* AdviceandTipsView.swift */,
+				BDAC70C82C1B91F400B19CC0 /* StressManagementView.swift */,
+				BDAC70CA2C1B920A00B19CC0 /* BreathingExercises.swift */,
+				BDAC70CC2C1B921E00B19CC0 /* ProductivityView.swift */,
 				BD7486A02C1A088C00343C67 /* ContentView.swift */,
+				BDAC70CE2C1B922C00B19CC0 /* FinanceTracker.swift */,
+				BDAC70D02C1B924600B19CC0 /* JournalView.swift */,
+				BDF4EC572C1A35A400AE8400 /* ToDoItem.swift */,
+				BDF4EC552C1A33CA00AE8400 /* NewToDoView.swift */,
 				BD7486A22C1A088E00343C67 /* Assets.xcassets */,
+				BDAC70D22C1B92E400B19CC0 /* Shrikhand-Regular.ttf */,
 				BD7486A42C1A088E00343C67 /* Preview Content */,
 			);
 			path = TaskManager;
@@ -106,6 +142,8 @@
 			isa = PBXGroup;
 			children = (
 				BD7486A52C1A088E00343C67 /* Preview Assets.xcassets */,
+				BDAC70D72C1B94C100B19CC0 /* Shrikhand-Regular.ttf */,
+				BDAC70D62C1B947900B19CC0 /* Shrikhand-Regular.ttf */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -232,6 +270,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD7486A62C1A088E00343C67 /* Preview Assets.xcassets in Resources */,
+				BDAC70D32C1B92E400B19CC0 /* Shrikhand-Regular.ttf in Resources */,
 				BD7486A32C1A088E00343C67 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -257,7 +296,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDAC70D12C1B924600B19CC0 /* JournalView.swift in Sources */,
+				BDAC70C72C1B91DD00B19CC0 /* AdviceandTipsView.swift in Sources */,
+				BDAC70C52C1B91B300B19CC0 /* HomePage.swift in Sources */,
+				BDAC70CB2C1B920A00B19CC0 /* BreathingExercises.swift in Sources */,
+				BDAC70C92C1B91F400B19CC0 /* StressManagementView.swift in Sources */,
+				BDF4EC562C1A33CA00AE8400 /* NewToDoView.swift in Sources */,
 				BD7486A12C1A088C00343C67 /* ContentView.swift in Sources */,
+				BDAC70CD2C1B921E00B19CC0 /* ProductivityView.swift in Sources */,
+				BDAC70CF2C1B922C00B19CC0 /* FinanceTracker.swift in Sources */,
+				BDF4EC582C1A35A400AE8400 /* ToDoItem.swift in Sources */,
 				BD74869F2C1A088C00343C67 /* TaskManagerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -424,6 +472,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"TaskManager/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = TaskManager/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -452,6 +501,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"TaskManager/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = TaskManager/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

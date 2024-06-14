@@ -6,3 +6,15 @@
 //
 
 import Foundation
+//import SwiftUI
+import SwiftData
+
+@Model
+class ToDoItem {
+    var title : String
+    
+    init(title: String) {
+        self.title = title
+    }
+}
+    

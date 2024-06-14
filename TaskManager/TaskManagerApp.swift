@@ -6,12 +6,14 @@
 //
 
 import SwiftUI
+import SwiftData
 
 @main
 struct TaskManagerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomePage()
+                .modelContainer(for: ToDoItem.self)
         }
     }
 }
